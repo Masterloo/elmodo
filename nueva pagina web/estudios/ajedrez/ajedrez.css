@@ -1,0 +1,25 @@
+*{
+	background:#997028;
+}
+h1,h2{
+	background:#F0E841;
+}
+
+footer p{
+	clear:both;
+	padding:10px;
+	background:#958A7A;
+	text-align:center;
+	font-size:20px;
+}
+table, tr,td {
+	border-collapse:collapse;
+	border:black 5px solid;
+	
+}
+table{
+	width:700px;
+	text-align:justify;
+	
+	
+}

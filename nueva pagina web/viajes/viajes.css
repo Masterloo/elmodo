@@ -1,0 +1,20 @@
+*{
+	background:#D1C048;
+}
+h1{
+	text-align:center;
+}
+
+p {
+	background:#22B48A;
+	margin:30px;
+	
+}
+
+footer p{
+	clear:both;
+	padding:10px;
+	background:#958A7A;
+	text-align:center;
+	font-size:20px;
+}
